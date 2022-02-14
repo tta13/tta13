@@ -65,6 +65,13 @@
 
 [![Linkedin](https://img.shields.io/badge/Tales%20Alves-232323?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/tta13/)  
 [![Mail](https://img.shields.io/badge/Gmail-232323?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:tta@cin.ufpe.br)
+  
+### Interests:
+  * Data Visualization 〽️
+  * AI 🧠
+  * Software Engineering ⚙️
+  * Games 🎮
+  * Sports 🏀⚽
 
 </div>
 
