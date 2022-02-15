@@ -25,6 +25,10 @@
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/flask/flask-original.svg" width="35"/>
 </a>
 
+<a href="https://www.docker.com/" alt="Docker" target="_blank">
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/docker/docker-original.svg" height="35"/>
+</a>
+  
 <a href="https://angular.io/" alt="Angular" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/angularjs/angularjs-plain.svg" width="35"/>
 </a>
@@ -45,16 +49,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="35"/>
 </a>
 
-<a href="https://www.docker.com/" alt="Docker" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="35"/>
-</a>
-
 <a href="https://www.ruby-lang.org/" alt="Ruby" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/ruby/ruby-original.svg" width="35"/>
 </a>
 
 <a href="https://www.haskell.org/" alt="Haskell" target="_blank">
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/docker/docker-original.svg" width="35"/>
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/haskell/haskell-original.svg" width="35"/>
 </a>
 
 <a href="https://git-scm.com/" alt="Git" target="_blank">
