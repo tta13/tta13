@@ -87,7 +87,7 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tta13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     </a>
     <a>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tta13&layout=compact&langs_count=8&theme=tokyonight"/>    
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tta13&layout=compact&hide=jupyter%20notebook,asp.net,mathematica,shaderlab&langs_count=6&theme=tokyonight"/>    
     </a>
   </p>
 </details>
