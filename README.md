@@ -1,7 +1,7 @@
 ## Hi there, this is **Tales Tomaz Alves** 👋
-* I work as a **Frontend Developer**
+* I work as a **Machine Learning engineer**
 * I study **Computer Engineering** at CIn-UFPE.
-* Currently creating frontend solutions for data visualization and process mining.
+* Currently creating ML solutions for NLP and sentiment analysis.
 
 <div>
   
@@ -9,26 +9,30 @@
   
 ### :books: Skills and Tools:
 
-<a href="https://unity.com/" alt="Unity" target="_blank">
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/unity/unity-original.svg" width="35"/>
-</a>
-  
-<a href="https://docs.microsoft.com/dotnet/csharp//" alt="C Sharp" target="_blank">
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/csharp/csharp-original.svg" width="35"/>
-</a>
-  
 <a href="https://www.python.org/" alt="Python" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
+</a>
+
+<a href="https://fastapi.tiangolo.com/" alt="FastAPI" target="_blank">
+<img src="https://github.com/devicons/devicon/blob/v2.15.0/icons/fastapi/fastapi-original.svg" width="35"/>
 </a>
 
 <a href="https://flask.palletsprojects.com/en/2.0.x/" alt="Flask" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/flask/flask-original.svg" width="35"/>
 </a>
 
+<a href="https://nodejs.org/en/" alt="Node.js" target="_blank">
+<img src="https://github.com/devicons/devicon/blob/v2.15.0/icons/nodejs/nodejs-original.svg" width="35"/>
+</a>
+
 <a href="https://www.docker.com/" alt="Docker" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/docker/docker-original.svg" height="35"/>
 </a>
-  
+
+<a href="https://firebase.google.com/" alt="Firebase" target="_blank">
+<img src="https://github.com/devicons/devicon/blob/v2.15.0/icons/firebase/firebase-plain.svg" height="35"/>
+</a>
+
 <a href="https://angular.io/" alt="Angular" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/angularjs/angularjs-plain.svg" width="35"/>
 </a>
@@ -45,24 +49,20 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/>
 </a>
 
-<a href="https://getbootstrap.com/" alt="Bootstrap" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="35"/>
+<a href="https://www.gnu.org/software/bash/" alt="Bash" target="_blank">
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/bash/bash-original.svg" width="35"/>
 </a>
 
-<a href="https://www.ruby-lang.org/" alt="Ruby" target="_blank">
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/ruby/ruby-original.svg" width="35"/>
+<a href="https://unity.com/" alt="Unity" target="_blank">
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/unity/unity-original.svg" width="35"/>
 </a>
-
-<a href="https://www.haskell.org/" alt="Haskell" target="_blank">
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/haskell/haskell-original.svg" width="35"/>
+  
+<a href="https://docs.microsoft.com/dotnet/csharp//" alt="C Sharp" target="_blank">
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/csharp/csharp-original.svg" width="35"/>
 </a>
 
 <a href="https://git-scm.com/" alt="Git" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
-</a>
-
-<a href="https://www.gnu.org/software/bash/" alt="Bash" target="_blank">
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/bash/bash-original.svg" width="35"/>
 </a>
 
 ### ✉ Contact:
@@ -71,11 +71,11 @@
 [![Mail](https://img.shields.io/badge/Gmail-232323?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:tta@cin.ufpe.br)
   
 ### Interests:
-  * Data Science 〽️
-  * AI 🧠
+  * Data Science :chart:
+  * ML 🧠
   * Software Engineering ⚙️
-  * Games 🎮
   * Sports 🏀⚽
+  * Games 🎮
 
 </div>
 
