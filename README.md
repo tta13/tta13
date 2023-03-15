@@ -1,7 +1,6 @@
-## Hi there, this is **Tales Tomaz Alves** 👋
-* I work as a **Machine Learning engineer**
+## Hi there, this is **Tales** 👋
 * I study **Computer Engineering** at CIn-UFPE.
-* Currently creating ML solutions for NLP and sentiment analysis.
+* Currently looking for oportunities on Data Science and Machine Learning.
 
 <div>
   
@@ -35,6 +34,14 @@
 
 <a href="https://angular.io/" alt="Angular" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/angularjs/angularjs-plain.svg" width="35"/>
+</a>
+  
+<a href="https://reactjs.org/" alt="React" target="_blank">
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/react/react-original.svg" width="35"/>
+</a>
+  
+<a href="https://www.javascript.com/" alt="JavaScript" target="_blank">
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/javascript/javascript-original.svg" width="35"/>
 </a>
 
 <a href="https://www.typescriptlang.org/" alt="Typescript" target="_blank">
@@ -80,15 +87,18 @@
 </div>
 
 <details> 
-  <summary> :chart: GitHub Profile Stats</summary>
+  <summary> <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> <b>Github Profile Stats</b></summary>
   <br/>
-  <p>
+  <p align="center">
     <a>    
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tta13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     </a>
     <a>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tta13&layout=compact&hide=jupyter%20notebook,asp.net,mathematica,shaderlab&langs_count=6&theme=tokyonight"/>    
     </a>
+  </p>
+  <p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tta13&theme=tokyonight&hide_border=false"/>
   </p>
 </details>
 
